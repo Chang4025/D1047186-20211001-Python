@@ -8,8 +8,8 @@ for c in v1:
 stra = ("".join(cipher))
 print(stra)
 
-for i in range(27):
-    strb = chr(ord(c)+i)
+# for i in range(27):
+#     strb = chr(ord(c)+i)
     
-print(strb)
+# print(strb)
 

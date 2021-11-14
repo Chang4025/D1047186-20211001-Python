@@ -5,4 +5,4 @@ while result<=m:
     count+=1
     result*=count
  
-print("{} {}".format(count,result))
+print("{}{}".format(count,result))
